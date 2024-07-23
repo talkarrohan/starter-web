@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Rocky Balboa -- Boxer -- Rocky_Punch@twitter.com
 
 # THANKS
 
