@@ -4,10 +4,12 @@
 # TEAM
 
     Rocky Balboa -- Boxer -- Rocky_Punch@twitter.com
+    Ronnie Colemon -- BodyBuilder -- ronnie_pump@twitter.com
 
 # THANKS
 
     <name>
+    Joe Biden
 
 # TECHNOLOGY COLOPHON
 
